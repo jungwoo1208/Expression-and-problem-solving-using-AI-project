@@ -33,4 +33,4 @@
 
 - ## 결과 예시
 실시간 탐지 결과 예제:
-![Detection Example](train_batch199461.jpg)
+![Detection Example](ai/test2/train_batch199461.jpg)
