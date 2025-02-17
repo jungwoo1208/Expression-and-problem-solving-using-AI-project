@@ -1,0 +1,50 @@
+train: /dataset/data/train/images
+val: /dataset/data/val/images
+
+nc: 45
+names:
+  0: Eggplant
+  1: Crabstick
+  2: Sweet_potato
+  3: Mackerel
+  4: Seaweed
+  5: Yellow_paprika
+  6: Green_pepper
+  7: Egg
+  8: Chicken_breast
+  9: Carrot
+  10: Green_onion
+  11: Tofu
+  12: Garlic
+  13: Rice
+  14: Cabbage
+  15: Kimchi
+  16: Mushroom
+  17: Bacon
+  18: Broccoli
+  19: Vienna_sausage
+  20: Pork_belly
+  21: Shrimp
+  22: Sausage
+  23: Bean_sprouts
+  24: Sundae
+  25: Sliced_cheese
+  26: Spinach
+  27: Rice_grains
+  28: Cooked_rice
+  29: Zucchini
+  30: Cabbage
+  31: Onion
+  32: Cucumber
+  33: Squid
+  34: Red_cabbage
+  35: Canned_tuna
+  36: Cheddar_cheese
+  37: Cheese
+  38: Soybean_sprouts
+  39: Tomato
+  40: Paprika
+  41: Yellow_paprika
+  42: Red_paprika
+  43: Enoki_mushroom
+  44: Ham
